@@ -1,0 +1,33 @@
+<annotation>
+  <folder>0171</folder>
+  <filename>0171_normal_C.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>800</width>
+    <height>61</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>normal_pressure</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>16.01</xmin>
+      <ymin>1.21</ymin>
+      <xmax>348.69</xmax>
+      <ymax>61.0</ymax>
+    </bndbox>
+    <attributes>
+      <attribute>
+        <name>rotation</name>
+        <value>0.0</value>
+      </attribute>
+    </attributes>
+  </object>
+</annotation>

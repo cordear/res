@@ -1,0 +1,33 @@
+<annotation>
+  <folder>0242</folder>
+  <filename>0242_normal_peep_C.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>800</width>
+    <height>181</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>peepi</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>10.09</xmin>
+      <ymin>31.45</ymin>
+      <xmax>772.82</xmax>
+      <ymax>126.14</ymax>
+    </bndbox>
+    <attributes>
+      <attribute>
+        <name>rotation</name>
+        <value>0.0</value>
+      </attribute>
+    </attributes>
+  </object>
+</annotation>

@@ -1,0 +1,33 @@
+<annotation>
+  <folder>0274</folder>
+  <filename>0274_normal_peep_A.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>800</width>
+    <height>181</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>normal_volume</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>18.15</xmin>
+      <ymin>10.58</ymin>
+      <xmax>749.2</xmax>
+      <ymax>181.0</ymax>
+    </bndbox>
+    <attributes>
+      <attribute>
+        <name>rotation</name>
+        <value>0.0</value>
+      </attribute>
+    </attributes>
+  </object>
+</annotation>

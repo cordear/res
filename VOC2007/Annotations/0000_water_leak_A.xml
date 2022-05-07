@@ -1,0 +1,33 @@
+<annotation>
+  <folder>0000</folder>
+  <filename>0000_water_leak_A.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>800</width>
+    <height>67</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>leakage</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>96.24</xmin>
+      <ymin>2.64</ymin>
+      <xmax>537.97</xmax>
+      <ymax>67.0</ymax>
+    </bndbox>
+    <attributes>
+      <attribute>
+        <name>rotation</name>
+        <value>0.0</value>
+      </attribute>
+    </attributes>
+  </object>
+</annotation>
